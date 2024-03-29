@@ -12,7 +12,6 @@ export default function TopBar() {
       <div className="topCenter">
         <ul className="toplist">
             <li className="toplistItems"> HOME </li>
-            <li className="toplistItems"> ABOUT </li>
             <li className="toplistItems"> CONTACT</li>
             <li className="toplistItems"> EDUCATION</li>
             <li className="toplistItems"> PROFESIONEL EXPERIENCE </li>
