@@ -1,4 +1,4 @@
-import TopBar from "./TopBar/Topbar";
+import TopBar from "./components/TopBar/Topbar";
 import Home from "./pages/Home/Home";
 
 

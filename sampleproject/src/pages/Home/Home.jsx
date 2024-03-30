@@ -1,6 +1,6 @@
-import Posts from '../../Posts/Posts'
-import Heaader from '../../heaader/Heaader'
-import SideBar from '../../sidebar/SideBar'
+import Posts from '../../components/Posts/Posts'
+import Heaader from '../../components/heaader/Heaader'
+import SideBar from '../../components/sidebar/SideBar'
 import './Home.css'
 
 export default function Home() {
@@ -13,6 +13,8 @@ export default function Home() {
       
       <Posts/>
       <SideBar/>
+      
+     
     </div>
 
     </>

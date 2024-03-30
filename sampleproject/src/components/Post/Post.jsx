@@ -1,16 +1,13 @@
-import './Sidebar.css'
+import './post.css'
 
-export default function SideBar() {
+export default function Post() {
   return (
-    <div className='SideBar'>
+    <div className='pos'>
+           
+           <div className="posItem">
 
-        <div className="sidebarItem">
+        <span className="postitle"> Education </span>
 
-        <span className="sidebartitl"> Education </span>
-
-            <img className='Imgfaculte' src="./images/LOGO fs.png" alt="" />
-
-            
             <p>
             Faculty of Sciences - TETOUAN 2021 - 2023 <br/>
             master’s degree - computer engineering <br />
