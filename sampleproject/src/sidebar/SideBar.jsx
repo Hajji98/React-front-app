@@ -6,8 +6,11 @@ export default function SideBar() {
 
         <div className="sidebarItem">
 
-            <span className="sidebartitl"> Education </span>
+        <span className="sidebartitl"> Education </span>
 
+            <img className='Imgfaculte' src="./images/LOGO fs.png" alt="" />
+
+            
             <p>
             Faculty of Sciences - TETOUAN 2021 - 2023 <br/>
             master’s degree - computer engineering <br />
