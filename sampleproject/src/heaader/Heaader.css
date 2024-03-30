@@ -2,15 +2,6 @@
     margin-top:50px;
 
 }
-.Img1{
-    
-    display: flex;
-    width: 160px;
-    height: 160px;
-    border-radius: 50%;
-    object-fit: cover;
-    margin-bottom: 100px;
-}
 
 .HeaderTitels{
     display: flex;
@@ -19,7 +10,13 @@
     font-family: 'Lora' serif;
 }
 
-
+.Img1{
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 100px;
+}
 
 .headerTitleSm{
     position: absolute;
