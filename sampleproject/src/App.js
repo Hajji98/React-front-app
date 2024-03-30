@@ -1,12 +1,15 @@
 import TopBar from "./components/TopBar/Topbar";
-import Home from "./pages/Home/Home";
+import Paramétres from "./pages/Paramétres/Paramétres";
+
+
 
 
 function App() {
   return (
     <>
    <TopBar/>
-   <Home/> 
+   <Paramétres/>
+   
   
    </>
 
