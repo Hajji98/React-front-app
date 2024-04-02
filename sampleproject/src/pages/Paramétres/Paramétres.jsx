@@ -3,14 +3,14 @@ import './Pramétres.css'
 
 export default function Paramétres() {
   return (
-    <div className='Param'>
+    <span className='Param'>
 
         <div className="parwarper"></div> 
 
         <div className="paraWrapper">
         <div className="paraTitle">
-          <span className="paraTitleUpdate">Update Your Account</span>
-          <span className="paraTitleDelete">Delete Account</span>
+          <span class="paraTitleUpdate">Update Your Account</span>
+          <span class="paraTitleDelete">Delete Account</span>
         </div>
         <form className="paraForm">
           <label>Profile Picture</label>
@@ -41,6 +41,6 @@ export default function Paramétres() {
         </form>
       </div>
          
-    </div>
+    </span>
   )
 }
